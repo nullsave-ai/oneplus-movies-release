@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "packageName": "com.oneplus.movies",
+  "channel": "movies",
+  "latestVersionCode": 1,
+  "minSupportedVersionCode": 1,
+  "versionName": "1.0",
+  "downloadUrl": "https://example.invalid/update.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "notes": "",
+  "enabled": true,
+  "maintenanceMessage": "",
+  "updatedAt": 1795710000000
+}
